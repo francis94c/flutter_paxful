@@ -6,7 +6,7 @@ import 'package:flutter_paxful/api/models/currency.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_paxful/api/responses/paxful_array_response.dart';
 
-/// A Calculator.
+/// Flutter PAXFul SDK.
 class FlutterPaxful {
   static String? _appId;
   static String? _secretKey;
