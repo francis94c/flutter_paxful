@@ -11,10 +11,18 @@ dependencies:
   flutter:
     sdk: flutter
 
+  retrofit: ^2.0.1
+  json_annotation: ^4.3.0
+  dio: ^4.0.4
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
   flutter_lints: ^1.0.0
+  retrofit_generator: ^2.0.1+2
+  build_runner: any
+  json_serializable: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
